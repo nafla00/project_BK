@@ -1,0 +1,56 @@
+body
+/*univeral -*  */
+{
+    
+   /* background-image: url(images/flower.jpg); */
+   background-image: url(images/pastel.jpg);
+   background-size: 20%;
+    background-repeat: repeat-x;
+    background-color:lightpink;
+}
+#heading1 , #div1{
+    padding: 70px;
+    /* margin-bottom: 70px;*/
+    margin: 50px  60px  70px;
+    color: blueviolet;
+    border-left: 6px solid red;
+    border-style: dotted;
+}
+
+#heading2
+{   
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    margin: 10px; 
+    color: darkgreen;
+    border-style: double;
+    
+}
+.div2
+{
+    /* display:inline; */
+    /* display: none; */
+    /* visibility: hidden; */
+    max-width:  300px;;
+    padding-top: 80px;
+    margin-left: 40px;
+    a:link{
+        color: #a544b4;
+        text-decoration: overline;
+    }
+   /* a :visited{
+        color: darkred;
+    } */
+}
+p{
+    margin-top :30px;
+    border-block-style: solid;
+    outline: rgb(71, 99, 190) solid 20px;
+  border-block-width: 10px;
+    color: blue;
+}
+.para1
+{
+   color: darkolivegreen;
+}                                                                 
